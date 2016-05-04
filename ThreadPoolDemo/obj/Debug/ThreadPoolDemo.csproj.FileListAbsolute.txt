@@ -1,0 +1,6 @@
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csprojResolveAssemblyReference.cache
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+C:\Users\ferenckovacs\Documents\Visual Studio 2015\Projects\Threadpool\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
